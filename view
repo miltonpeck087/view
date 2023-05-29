@@ -1,0 +1,1722 @@
+<!doctype html>
+<head lang="en-US">
+
+    <!-- Meta Tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link href="//www.google-analytics.com" rel="dns-prefetch">
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+    <link rel="pingback" href="https://berlinpolicyjournal.com/IP/xmlrpc.php">
+    <link rel='icon' id='favicon' type='image/png' href='https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/favicon_16x16.gif'><link rel='apple-touch-icon' href='https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/favicon_144x144.gif'><link rel='apple-touch-icon' sizes='76x76' href='https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/favicon_76x76.gif'><link rel='apple-touch-icon' sizes='114x114' href='https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/favicon_114x114.gif'><link rel='apple-touch-icon' sizes='144x144' href='https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/favicon_144x144.gif'>
+    <title> The Latest - Berlin Policy Journal - Blog </title>
+
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+
+<!-- This site is optimized with the Yoast SEO plugin v12.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://berlinpolicyjournal.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="The Latest - Berlin Policy Journal - Blog" />
+<meta property="og:url" content="https://berlinpolicyjournal.com/" />
+<meta property="og:site_name" content="Berlin Policy Journal - Blog" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="The Latest - Berlin Policy Journal - Blog" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://berlinpolicyjournal.com/#website","url":"https://berlinpolicyjournal.com/","name":"Berlin Policy Journal - Blog","potentialAction":{"@type":"SearchAction","target":"https://berlinpolicyjournal.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://berlinpolicyjournal.com/#webpage","url":"https://berlinpolicyjournal.com/","inLanguage":"en-US","name":"The Latest - Berlin Policy Journal - Blog","isPartOf":{"@id":"https://berlinpolicyjournal.com/#website"},"datePublished":"2017-11-11T13:08:09+00:00","dateModified":"2020-03-25T08:23:26+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Berlin Policy Journal - Blog &raquo; Feed" href="https://berlinpolicyjournal.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Berlin Policy Journal - Blog &raquo; Comments Feed" href="https://berlinpolicyjournal.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/berlinpolicyjournal.com\/IP\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.18"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='maha-shortcodes-o-css'  href='https://berlinpolicyjournal.com/IP/wp-content/plugins/shortcodes-maha/css/maha-shortcodes-o.css?ver=5.2.18' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://berlinpolicyjournal.com/IP/wp-includes/css/dist/block-library/style.min.css?ver=5.2.18' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://berlinpolicyjournal.com/IP/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://berlinpolicyjournal.com/IP/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='maha-bootstrap-css'  href='https://berlinpolicyjournal.com/IP/wp-content/themes/Curated/static/css/bootstrap-responsive.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='maha-entypo-css'  href='https://berlinpolicyjournal.com/IP/wp-content/themes/Curated/static/css/entypo.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='maha-basix-css'  href='https://berlinpolicyjournal.com/IP/wp-content/themes/Curated/static/css/basix.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='maha-basix-r-css'  href='https://berlinpolicyjournal.com/IP/wp-content/themes/Curated/static/css/basix-responsive.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='maha_heading_font-css'  href='//fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300%2C700%2C300italic&#038;subsets=latin%2Clatin&#038;ver=5.2.18' type='text/css' media='all' />
+<link rel='stylesheet' id='maha_main_font-css'  href='//fonts.googleapis.com/css?family=Oswald%3A300%2C400%2C700&#038;subsets=latin%2Clatin&#038;ver=5.2.18' type='text/css' media='all' />
+<link rel='stylesheet' id='maha_content_font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic&#038;subsets=latin%2Clatin&#038;ver=5.2.18' type='text/css' media='all' />
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css'  href='https://berlinpolicyjournal.com/IP/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=6.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://berlinpolicyjournal.com/IP/wp-includes/css/dashicons.min.css?ver=5.2.18' type='text/css' media='all' />
+<link rel='stylesheet' id='zoom-instagram-widget-css'  href='https://berlinpolicyjournal.com/IP/wp-content/plugins/instagram-widget-by-wpzoom/css/instagram-widget.css?ver=1.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://berlinpolicyjournal.com/IP/wp-content/plugins/cookie-notice/includes/../css/front.min.css?ver=5.2.18' type='text/css' media='all' />
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1' defer='defer'></script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2' defer='defer'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/berlinpolicyjournal.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":"","token":"29e4975cea","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-content/plugins/wordpress-popular-posts/assets/js/wpp-5.0.0.min.js?ver=5.0.1' defer='defer'></script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-content/plugins/instagram-widget-by-wpzoom/js/jquery.lazy.min.js?ver=1.4.2' defer='defer'></script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-content/plugins/instagram-widget-by-wpzoom/js/instagram-widget.js?ver=1.4.2' defer='defer'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/berlinpolicyjournal.com\/IP\/wp-admin\/admin-ajax.php","nonce":"fc61b31cca","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"86400","cookieTimeRejected":"86400","cookiePath":"\/","cookieDomain":"","redirection":"1","cache":"0","refuse":"1","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script async type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.2.3' defer='defer'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga&#038;property=5af5cd7a09cc3500113d6cf7' defer='defer'></script>
+<link rel='https://api.w.org/' href='https://berlinpolicyjournal.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://berlinpolicyjournal.com/IP/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://berlinpolicyjournal.com/IP/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.18" />
+<link rel='shortlink' href='https://berlinpolicyjournal.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://berlinpolicyjournal.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fberlinpolicyjournal.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://berlinpolicyjournal.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fberlinpolicyjournal.com%2F&#038;format=xml" />
+<style type="text/css">.page-id-10098 .main-ul-nav { 
+
+display: none; 
+
+}
+
+
+.page-id-10098 .menu { 
+
+display: none; 
+
+}
+
+.page-id-10098 .top-bar { 
+
+display: none; 
+
+}
+
+.page-id-10098 .logo { 
+
+display: none; 
+
+}
+
+
+.page-id-10098 .icon-search { 
+
+display: none; 
+
+}
+
+.page-id-10098 .hr { 
+
+display: none; 
+
+}
+
+
+.silk {
+    background-image:url(https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/03/ricepaper_neutral.png);
+    padding-left:10%;
+    padding-right:7%;
+   
+}
+
+  .padding {
+    
+    padding-left:10%;
+    padding-right:7%;
+}
+ 
+        .silk h1{
+     text-transform: uppercase;
+    padding-top:10px;
+
+      }
+      
+
+      
+       .silkwidget {
+    padding-left:5%;
+    padding-right:2%;
+    background-image:url(https://www.testbpj.de/wp-content/uploads/2019/03/ricepaper_neutral.png)
+    }
+
+
+
+
+
+.wp-caption.alignnone{width:100% !important;}
+
+
+.divtocbg {
+    background-color: #f5f6f7;
+    border-style: solid;
+    border-width: 1px;
+    padding-left:10%;
+    padding-right:10%
+   
+}
+
+/*.divtocbg img {
+    width: 100%;
+    height: auto;
+}*/
+
+.divtocbg h1{
+    line-height: 100%; 
+   font-size: 32px;
+  margin-top: 0em !important;
+     letter-spacing: 0px;
+     }
+    
+    .divtocbg h2{
+    line-height: 90% !important; 
+    font-size: 28px;
+    margin-top: 0em !important;
+       }
+    
+     .divtocbg h4{
+    font-size: 20px;
+    line-height: 80%;
+    text-transform: uppercase;
+    margin-top: 0em !important;
+   margin-bottom: 10px !important;
+    }
+    
+       .divtocbg h5{
+    line-height: 100%; 
+    margin-top: 60px;
+    text-transform: uppercase;
+     margin-top: 0em !important;
+    margin-bottom: 3px !important;
+    }
+    
+  .divtocbg p{
+    line-height: 100%; 
+    margin-top: 0em !important;
+    
+    }
+        
+        .divbibg {
+    background-color: #f5f6f7;
+    border-style: solid;
+    border-width: 1px;
+    padding-left:5%;
+  
+}
+
+.rpwwt-post-title {
+    font-weight: bold;
+}
+
+.i-slide .detail,
+.single .cover .detail,
+.widget_review .popupar-item .detail{background:none;}
+
+
+.zoom-zoom:hover .zoom-it.three  {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+    opacity: 1.2;
+    -webkit-transform: scale(1, 1);
+    -moz-transform: scale(1, 1);
+    -ms-transform: scale(1, 1);
+    -o-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+
+.text-content a {opacity: 1;}</style>                                    
+</head>
+
+<body class="home page-template page-template-page-builder page-template-page-builder-php page page-id-5562 chrome mh-body cookies-not-set">
+
+    <div id="body-maha" class="body-maha">
+
+        <nav id="mobile-bar-sticky" role="navigation" class="mobile-bar bar-sticky">
+            <div id="close-mobile-bar"><i class="icon-cancel"></i></div>
+            <div id="search-mobile-bar"><form action="https://berlinpolicyjournal.com/" class="searchform" method="get">
+	<button class="search-button"><i class="icon-search"></i></button>
+	<input type="text" name="s" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" autocomplete="off" />
+</form></div>
+            <ul id="menu-main_menu_2017" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5562 current_page_item mh-navcat-0"><span></span><a href="https://berlinpolicyjournal.com/">The Latest</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><span></span><a href="https://berlinpolicyjournal.com/app-2/">Current Issue</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><span></span><a href="https://berlinpolicyjournal.com/back-issues/">Back Issues</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-816"><span></span><a href="https://berlinpolicyjournal.com/on-the-new-silk-road/">On the New Silk Road</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><span></span><a href="https://berlinpolicyjournal.com/about/">About</a></li>
+</ul>        </nav>
+
+        <!-- START BODY BACKGROUND -->
+        <div id='body-background'>
+
+        <!-- START OFF CANVAS BODY -->
+                <div id="off-canvas-body" class="off-canvas-body ">
+
+            <!-- START TOP BAR -->
+            <div id="top-bar-sticky" class="bar-sticky">
+                <div class="top-bar">
+
+                    <!-- start container -->
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div id="top-right-nav" class="ul-nav">
+                                    <ul>
+                                    <li><a target="_blank" href="https://www.facebook.com/berlinpolicyjournal"><i class="icon-facebook"></i></a></li><li><a target="_blank" href="https://twitter.com/berlinpolicy"><i class="icon-twitter"></i></a></li><li><a target="_blank" href="https://www.youtube.com/user/DGAPeV"><i class="icon-play"></i></a></li><li><a target="_blank" href="https://plus.google.com/109787204769826815268/about?cfem=1"><i class="icon-gplus"></i></a></li>                                    </ul>
+                                </div>
+
+                                <nav id="top-nav-wrapper" class="ul-nav">
+                                    <ul id="menu-top" class="menu"><li id="menu-item-5800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5800 mh-navcat-0"><span></span><a href="https://berlinpolicyjournal.com/app-2/">Current Issue</a></li>
+<li id="menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-464 mh-navcat-0"><span></span><a href="https://berlinpolicyjournal.com/contact/">Contact</a></li>
+<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-1231 mh-navcat-0"><span></span><a href="https://berlinpolicyjournal.com/privacy-policy/">Data Protection &#038; Legal Information</a></li>
+<li id="menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1232 mh-navcat-0"><span></span><a href="https://berlinpolicyjournal.com/imprint/">Imprint</a></li>
+</ul>                                </nav>
+
+                                <nav id="top-mobile-wrapper" class="ul-nav">
+                                    <ul><li><a><i class="icon-menu"></i></a></li></ul>
+                                </nav>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end container -->
+
+                </div>
+            </div>
+            <!-- END TOP BAR -->
+
+            <!-- START MAIN BAR -->
+            <div class="main-logo-ads-wrap">
+                <div class="main-logo-ads">
+
+                    <!-- start container -->
+                    <div class="container">
+                        <div class="row main-logo-center">
+                            <div class="col-sm-12">
+                                <!-- logo -->
+                                		<div id="thelogo" class="logo the-logo-center">
+			<a href="https://berlinpolicyjournal.com">
+				<img alt="Berlin Policy Journal &#8211; Blog - A bimonthly magazine on international affairs, edited in Germany&#039;s capital" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/logo_bpj_header.gif" data-retina="https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/logo_bpj_header_ret.gif" data-first="https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/logo_bpj_header.gif"/>
+			</a>
+		</div>
+		<h1 class='site-outline'>A bimonthly magazine on international affairs, edited in Germany&#039;s capital</h1>
+                                <!-- adv -->
+                                <div id="main-ads" class="main-ads-center">
+                                    <div class="vp-1170 vp-fluid">                                    </div>
+                                    <div class="vp-970 vp-750">                                    </div>
+                                    <div class="vp-320">                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end container -->
+
+                </div>
+            </div>
+            <!-- END MAIN BAR -->
+
+            <!-- START MAIN NAV BAR -->
+            <!-- <div id="main-nav-bar-sticky" class="main-bar-sticky"> -->
+            <div id="main-nav-bar" class="main-nav-bar clearfix main-nav-center">
+                <div id="main-search" class=" clearfix">
+                    <div id="con-search">
+                        <div class="container">
+                            <div class="cols-sm12">
+                                <form action="https://berlinpolicyjournal.com/" id="main-search-form">
+                                    <!-- <input type="submit" class="go-search"/> -->
+                                    <span class="close-search-form"><i class="icon-cancel"></i></span>
+                                    <span class="loading-search-result"><img src="https://berlinpolicyjournal.com/IP/wp-content/themes/Curated/images/loading.gif" alt=""></span>
+                                    <input type="text" class="search-field" autocomplete="off" name="s" placeholder="Type here... and hit enter"/>
+                                    
+                                                                        <div class="search-result">
+                                        <div class="container search-result-content">
+                                            
+                                        </div>
+                                    </div>
+                                                                    </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class='maha-notification container'><div id="main-notif"></div></div>
+
+                <div class="container clearfix">
+                    
+                </div>
+
+                <!-- start container -->
+                <div class="container clearfix">
+                    <div class="row clearfix">
+                        <div class="col-sm-12 clearfix">
+                            <!-- main search form -->
+
+                            <!-- login nav -->
+                            
+                            <!-- search nav -->
+                                                        <div id="search-nav" class="search-nav clearfix">
+                                <span class="open-search-form"><i class="icon-search"></i></span>
+                            </div>
+                            
+                            <!-- Cart nav -->
+                            
+                            <!-- main nav -->
+                            <nav id="main-nav-wrapper" class="main-ul-nav clearfix">
+                            		<div id="thelogosmall" class="logo">
+			<a href="https://berlinpolicyjournal.com">
+				<img alt="Berlin Policy Journal &#8211; Blog - A bimonthly magazine on international affairs, edited in Germany&#039;s capital" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/logo_270x90px_smaller_space.gif" data-retina="https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/logo_270x90px_smaller_space.gif" data-first="https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/04/logo_270x90px_smaller_space.gif"/>
+			</a>
+		</div>
+		<ul id="menu-main_menu_2017-1" class="menu"><li id="menu-item-5581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5562 current_page_item mh-navcat-0"><a href="https://berlinpolicyjournal.com/">The Latest</a><div class="nav-sub-wrap container"><div class="nsw row"></div></div>
+</li>
+<li id="menu-item-5573" class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><a href="https://berlinpolicyjournal.com/app-2/">Current Issue</a><div class="nav-sub-wrap container"><div class="nsw row"></div></div>
+</li>
+<li id="menu-item-5569" class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><a href="https://berlinpolicyjournal.com/back-issues/">Back Issues</a><div class="nav-sub-wrap container"><div class="nsw row"></div></div>
+</li>
+<li id="menu-item-9571" class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-816"><a href="https://berlinpolicyjournal.com/on-the-new-silk-road/">On the New Silk Road</a><div class="nav-sub-wrap container"><div class="nsw row"></div></div>
+</li>
+<li id="menu-item-5576" class="menu-item menu-item-type-post_type menu-item-object-page mh-navcat-0"><a href="https://berlinpolicyjournal.com/about/">About</a><div class="nav-sub-wrap container"><div class="nsw row"></div></div>
+</li>
+</ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <!-- end container -->
+
+            </div>
+            <!-- </div> -->
+            <!-- END MAIN NAV BAR -->
+
+            <!-- START PAGE WRAPPER -->
+            <div class="page-wrapper">
+                
+
+
+	
+
+<div class="mh-el page-sidebar">
+				<!-- start container -->
+				<div class="container">
+				<div class="row">
+				<!-- Page --><div class="col-sm-8">
+<div class="mh-el blocked-slide">
+
+	
+		
+					<!-- Start Curated Slider -->
+			<div id="mh_el64743c1e77cc2" class="el-blocked-slide maha_royalSlider">
+				<!-- <ul class="slides"> -->
+					        				<div class="i-slide rsContent post-12226 post type-post status-publish format-standard has-post-thumbnail category-berlin-observer">
+							<div class="full bContainer zoom-zoom" itemscope itemtype="http://schema.org/Article">
+								<a href="https://berlinpolicyjournal.com/hello-internationale-politik-quarterly/" title="We Have Moved!">
+									<img class="zoom-it three" typeof="foaf:Image" alt="We Have Moved!" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/10/Announcing-IPQ-4-850x468.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/10/Announcing-IPQ-4-850x468@2x.jpg 2x" />
+								</a>
+								<div class="detail">
+									<div class="row">
+										<div class="col-sm-12"> <!-- <div class="col-sm-8"> -->
+											<div class="meta-info">
+																								<span class="ava-auth">
+													<img width="14" height="14" itemprop="image" class="entry-thumb" src="http://berlinpolicyjournal.com/IP/wp-content/uploads/2015/05/Henning-Hoff_avatar_1430765447-48x48.gif" alt="" title="Henning Hoff"/>
+												</span>
+												<span itemprop="author" class="entry-author">Henning Hoff</span>
+																								<!--span class="ava-auth">
+													<img width="14" height="14" itemprop="image" class="entry-thumb" src="http://berlinpolicyjournal.com/IP/wp-content/uploads/2015/05/Henning-Hoff_avatar_1430765447-48x48.gif" alt="" title="Henning Hoff"/>
+												</span>
+												<span itemprop="author" class="entry-author">Henning Hoff</span-->, 
+												<time itemprop="dateCreated" class="entry-date" datetime="2020-10-02T10:44:07+00:00" >
+													October 2, 2020												</time>
+											</div>
+											<a class="a-url" href="https://berlinpolicyjournal.com/hello-internationale-politik-quarterly/" title="We Have Moved!">
+												<h2>We Have Moved!</h2>
+											</a>
+											<div class="meta-count">
+																								<span class="i-category"><a class="mh-elcat-37" href="https://berlinpolicyjournal.com/category/berlin-observer/" title="Berlin Observer" rel="category">Berlin Observer</a> </span>
+											</div>
+										</div>
+										<div class="col-sm-4">
+											<!-- Hello -->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+        				        				<div class="i-slide rsContent post-12216 post type-post status-publish format-standard has-post-thumbnail category-beyond-the-seas tag-china tag-china-policy tag-india">
+							<div class="full bContainer zoom-zoom" itemscope itemtype="http://schema.org/Article">
+								<a href="https://berlinpolicyjournal.com/death-in-the-himalayas/" title="Death in the Himalayas">
+									<img class="zoom-it three" typeof="foaf:Image" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/IP_05-2020_Mohan-CUT-850x468.jpg" alt="Death in the Himalayas" />
+								</a>
+								<div class="detail">
+									<div class="row">
+										<div class="col-sm-12"> <!-- <div class="col-sm-8"> -->
+											<div class="meta-info">
+																								<span class="ava-auth">
+													<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2018/06/Garima-Mohan_avatar_1530182097-48x48.gif" alt="" title="Garima Mohan"/>
+												</span>
+												<span itemprop="author" class="entry-author">Garima Mohan</span>
+																								<!--span class="ava-auth">
+													<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2018/06/Garima-Mohan_avatar_1530182097-48x48.gif" alt="" title="Garima Mohan"/>
+												</span>
+												<span itemprop="author" class="entry-author">Garima Mohan</span-->, 
+												<time itemprop="dateCreated" class="entry-date" datetime="2020-08-31T10:59:46+00:00" >
+													August 31, 2020												</time>
+											</div>
+											<a class="a-url" href="https://berlinpolicyjournal.com/death-in-the-himalayas/" title="Death in the Himalayas">
+												<h2>Death in the Himalayas</h2>
+											</a>
+											<div class="meta-count">
+																								<span class="i-category"><a class="mh-elcat-41" href="https://berlinpolicyjournal.com/category/beyond-the-seas/" title="Beyond the Seas" rel="category">Beyond the Seas</a> </span>
+											</div>
+										</div>
+										<div class="col-sm-4">
+											<!-- Hello -->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+        				        				<div class="i-slide rsContent post-12213 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe tag-boris-johnson tag-brexit tag-united-kingdom">
+							<div class="full bContainer zoom-zoom" itemscope itemtype="http://schema.org/Article">
+								<a href="https://berlinpolicyjournal.com/the-master-of-reinvention/" title="The Master of Reinvention">
+									<img class="zoom-it three" typeof="foaf:Image" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTX7MNVK-CUT-850x468.jpg" alt="The Master of Reinvention" />
+								</a>
+								<div class="detail">
+									<div class="row">
+										<div class="col-sm-12"> <!-- <div class="col-sm-8"> -->
+											<div class="meta-info">
+																								<span class="ava-auth">
+													<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/12/john_kampfner-48x48.gif" alt="" title="John Kampfner"/>
+												</span>
+												<span itemprop="author" class="entry-author">John Kampfner</span>
+																								<!--span class="ava-auth">
+													<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/12/john_kampfner-48x48.gif" alt="" title="John Kampfner"/>
+												</span>
+												<span itemprop="author" class="entry-author">John Kampfner</span-->, 
+												<time itemprop="dateCreated" class="entry-date" datetime="2020-08-28T11:38:33+00:00" >
+													August 28, 2020												</time>
+											</div>
+											<a class="a-url" href="https://berlinpolicyjournal.com/the-master-of-reinvention/" title="The Master of Reinvention">
+												<h2>The Master of Reinvention</h2>
+											</a>
+											<div class="meta-count">
+																								<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+											</div>
+										</div>
+										<div class="col-sm-4">
+											<!-- Hello -->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+        				        				<div class="i-slide rsContent post-12197 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe tag-belarus">
+							<div class="full bContainer zoom-zoom" itemscope itemtype="http://schema.org/Article">
+								<a href="https://berlinpolicyjournal.com/belarus-primed-to-break-free/" title="Belarus Primed to Break Free">
+									<img class="zoom-it three" typeof="foaf:Image" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTX7PX0I-CUT-850x468.jpg" alt="Belarus Primed to Break Free" />
+								</a>
+								<div class="detail">
+									<div class="row">
+										<div class="col-sm-12"> <!-- <div class="col-sm-8"> -->
+											<div class="meta-info">
+																								<span class="ava-auth">
+													<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/10/slawomir_sierakowski-48x48.gif" alt="" title="Sławomir Sierakowski"/>
+												</span>
+												<span itemprop="author" class="entry-author">Sławomir Sierakowski</span>
+																								<!--span class="ava-auth">
+													<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/10/slawomir_sierakowski-48x48.gif" alt="" title="Sławomir Sierakowski"/>
+												</span>
+												<span itemprop="author" class="entry-author">Sławomir Sierakowski</span-->, 
+												<time itemprop="dateCreated" class="entry-date" datetime="2020-08-18T12:46:29+00:00" >
+													August 18, 2020												</time>
+											</div>
+											<a class="a-url" href="https://berlinpolicyjournal.com/belarus-primed-to-break-free/" title="Belarus Primed to Break Free">
+												<h2>Belarus Primed to Break Free</h2>
+											</a>
+											<div class="meta-count">
+																								<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+											</div>
+										</div>
+										<div class="col-sm-4">
+											<!-- Hello -->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+        				
+			    <!-- </ul> -->
+		    </div>
+
+		    <script type="text/javascript">
+		    	jQuery(document).ready(function($) {
+					$("#mh_el64743c1e77cc2").maha_royalSlider({
+						arrowsNav: true,
+						arrowsNavAutoHide: false,
+						fadeinLoadedSlide: false,
+						controlNavigationSpacing: 0,
+						imageScaleMode: 'fill',
+						imageAlignCenter:false,
+						blockLoop: true,
+						loop: true,
+						numImagesToPreload: 5,
+						transitionType: 'fade',
+						autoScaleSlider: true, 
+						autoScaleSliderWidth: 750,
+	    				autoScaleSliderHeight: 410,
+						keyboardNavEnabled: true,
+						transitionSpeed: 900,
+						autoPlay: {
+				    		enabled: true,
+				    		pauseOnHover: true,
+							delay: 4700
+				    	},
+						block: {
+							delay: 2500
+						}
+					}).addClass('up-up');
+				});
+		    </script>
+
+		    
+		
+		
+</div><div class="mh-el" id="cur-page">
+
+	
+	<div class="cur-page-item row block-streams el-block-2">			<div class="up-up-child col-sm-6 post-12226 post type-post status-publish format-standard has-post-thumbnail category-berlin-observer">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/hello-internationale-politik-quarterly/" rel="bookmark" title="We Have Moved!">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="We Have Moved!" title="We Have Moved!" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/10/Announcing-IPQ-4-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/10/Announcing-IPQ-4-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-10-02T10:44:07+00:00" >
+			October 2, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="http://berlinpolicyjournal.com/IP/wp-content/uploads/2015/05/Henning-Hoff_avatar_1430765447-48x48.gif" alt="" title="Henning Hoff"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/hoff/">Henning Hoff</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="http://berlinpolicyjournal.com/IP/wp-content/uploads/2015/05/Henning-Hoff_avatar_1430765447-48x48.gif" alt="" title="Henning Hoff"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/hoff/">Henning Hoff</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/hello-internationale-politik-quarterly/" rel="bookmark" title="We Have Moved!">
+			We Have Moved!		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-37" href="https://berlinpolicyjournal.com/category/berlin-observer/" title="Berlin Observer" rel="category">Berlin Observer</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>We have relaunched as INTERNATIONALE POLITIK QUARTERLY.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12216 post type-post status-publish format-standard has-post-thumbnail category-beyond-the-seas tag-china tag-china-policy tag-india">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/death-in-the-himalayas/" rel="bookmark" title="Death in the Himalayas">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Death in the Himalayas" title="Death in the Himalayas" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/IP_05-2020_Mohan-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/IP_05-2020_Mohan-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-08-31T10:59:46+00:00" >
+			August 31, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2018/06/Garima-Mohan_avatar_1530182097-48x48.gif" alt="" title="Garima Mohan"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/mohan/">Garima Mohan</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2018/06/Garima-Mohan_avatar_1530182097-48x48.gif" alt="" title="Garima Mohan"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/mohan/">Garima Mohan</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/death-in-the-himalayas/" rel="bookmark" title="Death in the Himalayas">
+			Death in the Himalayas		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-41" href="https://berlinpolicyjournal.com/category/beyond-the-seas/" title="Beyond the Seas" rel="category">Beyond the Seas</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>With Europe reassessing its  relations with Beijing, it should pay more attention to the conflict between India and China.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12213 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe tag-boris-johnson tag-brexit tag-united-kingdom">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/the-master-of-reinvention/" rel="bookmark" title="The Master of Reinvention">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="The Master of Reinvention" title="The Master of Reinvention" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTX7MNVK-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTX7MNVK-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-08-28T11:38:33+00:00" >
+			August 28, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/12/john_kampfner-48x48.gif" alt="" title="John Kampfner"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/kampfner/">John Kampfner</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/12/john_kampfner-48x48.gif" alt="" title="John Kampfner"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/kampfner/">John Kampfner</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/the-master-of-reinvention/" rel="bookmark" title="The Master of Reinvention">
+			The Master of Reinvention		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>Despite a shambolic handling of the coronavirus crisis, British Prime Minister Boris Johnson has largely maintained his popularity.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12197 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe tag-belarus">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/belarus-primed-to-break-free/" rel="bookmark" title="Belarus Primed to Break Free">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Belarus Primed to Break Free" title="Belarus Primed to Break Free" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTX7PX0I-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTX7PX0I-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-08-18T12:46:29+00:00" >
+			August 18, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/10/slawomir_sierakowski-48x48.gif" alt="" title="Sławomir Sierakowski"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/sierakowski/">Sławomir Sierakowski</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/10/slawomir_sierakowski-48x48.gif" alt="" title="Sławomir Sierakowski"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/sierakowski/">Sławomir Sierakowski</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/belarus-primed-to-break-free/" rel="bookmark" title="Belarus Primed to Break Free">
+			Belarus Primed to Break Free		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>Young people in Belarus want more than the stability Aleksander Lukashenka has offered for almost three decades. They may well get it.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12186 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe tag-aleksander-lukashenko tag-belarus">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/digital-natives-versus-security-hardliners/" rel="bookmark" title="Digital Natives versus Security Hardliners">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Digital Natives versus Security Hardliners" title="Digital Natives versus Security Hardliners" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTX7PFNN-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTX7PFNN-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-08-14T12:09:25+00:00" >
+			August 14, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/douglas-48x48.gif" alt="" title="Nadja Douglas"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/douglas/">Nadja Douglas</a></span>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/krawatzek-48x48.gif" alt="" title="Félix Krawatzek"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/krawatzek/">Félix Krawatzek</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/douglas-48x48.gif" alt="" title="Nadja Douglas"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/douglas/">Nadja Douglas</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/digital-natives-versus-security-hardliners/" rel="bookmark" title="Digital Natives versus Security Hardliners">
+			Digital Natives versus Security Hardliners		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>The violent aftermath of the Belarusian election has exposed the  erosion of trust among young people in the regime.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12181 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe tag-carbon-critical tag-climate-change tag-coal tag-germany tag-poland">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/carbon-critical-last-train-from-belchatow/" rel="bookmark" title="Carbon Critical: Last Train from Bełchatów?">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Carbon Critical: Last Train from Bełchatów?" title="Carbon Critical: Last Train from Bełchatów?" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/Carbon-Critical-Graphic_08-2020_v2-360x193.jpeg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/Carbon-Critical-Graphic_08-2020_v2-360x193@2x.jpeg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-08-14T10:26:46+00:00" >
+			August 14, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2018/05/Noah-Gordon_avatar_1525443663-48x48.gif" alt="" title="Noah J. Gordon"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/gordon/">Noah J. Gordon</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2018/05/Noah-Gordon_avatar_1525443663-48x48.gif" alt="" title="Noah J. Gordon"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/gordon/">Noah J. Gordon</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/carbon-critical-last-train-from-belchatow/" rel="bookmark" title="Carbon Critical: Last Train from Bełchatów?">
+			Carbon Critical: Last Train from Bełchatów?		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>The key to energy transition is energy replacement—quitting coal.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12175 post type-post status-publish format-standard has-post-thumbnail category-berlin-observer tag-german-european-policy tag-olaf-scholz tag-social-democrats tag-spd">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/merkels-red-twin/" rel="bookmark" title="Merkel&#8217;s Red Twin">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Merkel&#8217;s Red Twin" title="Merkel&#8217;s Red Twin" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTX7OOI5-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTX7OOI5-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-08-11T13:30:56+00:00" >
+			August 11, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="http://berlinpolicyjournal.com/IP/wp-content/uploads/2015/05/Bettina-Vestring_avatar_1430766061-48x48.gif" alt="" title="Bettina Vestring"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/vestring/">Bettina Vestring</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="http://berlinpolicyjournal.com/IP/wp-content/uploads/2015/05/Bettina-Vestring_avatar_1430766061-48x48.gif" alt="" title="Bettina Vestring"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/vestring/">Bettina Vestring</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/merkels-red-twin/" rel="bookmark" title="Merkel&#8217;s Red Twin">
+			Merkel&#8217;s Red Twin		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-37" href="https://berlinpolicyjournal.com/category/berlin-observer/" title="Berlin Observer" rel="category">Berlin Observer</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>Olaf Scholz&#8217; early nomination as &#8220;chancellor candidate&#8221; bodes ill for the stability of Germany&#8217;s new European policy.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12169 post type-post status-publish format-standard has-post-thumbnail category-berlin-observer tag-angela-merkel tag-geo-economics tag-german-foreign-policy tag-peter-altmaier">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/no-change-through-trade/" rel="bookmark" title="No Change Through Trade">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="No Change Through Trade" title="No Change Through Trade" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTS2VCGW-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/RTS2VCGW-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-08-06T14:20:20+00:00" >
+			August 6, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="http://berlinpolicyjournal.com/IP/wp-content/uploads/2016/11/Stephen-F.-Szabo_avatar_1478854616-48x48.gif" alt="" title="Stephen F. Szabo"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/szabo/">Stephen F. Szabo</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="http://berlinpolicyjournal.com/IP/wp-content/uploads/2016/11/Stephen-F.-Szabo_avatar_1478854616-48x48.gif" alt="" title="Stephen F. Szabo"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/szabo/">Stephen F. Szabo</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/no-change-through-trade/" rel="bookmark" title="No Change Through Trade">
+			No Change Through Trade		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-37" href="https://berlinpolicyjournal.com/category/berlin-observer/" title="Berlin Observer" rel="category">Berlin Observer</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>For its own sake and that of the EU, Germany needs to say goodbye to its geo-economic approach to foreign policy. Seven years ago &#8230; </p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12164 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe tag-emmanuel-macron tag-french-political-culture tag-pariscope">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/pariscope-frances-sharpest-critics/" rel="bookmark" title="Pariscope: France&#8217;s Sharpest Critics">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Pariscope: France&#8217;s Sharpest Critics" title="Pariscope: France&#8217;s Sharpest Critics" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/Pariscope_3_JPG-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/08/Pariscope_3_JPG-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-08-04T07:16:25+00:00" >
+			August 4, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/05/joseph-de-weck-48x48.gif" alt="" title="Joseph de Weck"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/deweck/">Joseph de Weck</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/05/joseph-de-weck-48x48.gif" alt="" title="Joseph de Weck"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/deweck/">Joseph de Weck</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/pariscope-frances-sharpest-critics/" rel="bookmark" title="Pariscope: France&#8217;s Sharpest Critics">
+			Pariscope: France&#8217;s Sharpest Critics		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>The French are self-involved, or so the cliché goes. But they are no chauvinists—just ask the French president.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12160 post type-post status-publish format-standard has-post-thumbnail category-beyond-the-seas tag-social-democracy">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/a-revival-of-the-left-in-the-age-of-coronavirus/" rel="bookmark" title="A Revival of the Left in the Age of Coronavirus?">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="A Revival of the Left in the Age of Coronavirus?" title="A Revival of the Left in the Age of Coronavirus?" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/RTS2TVDH-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/RTS2TVDH-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-07-16T09:44:05+00:00" >
+			July 16, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/michael_broening-48x48.gif" alt="" title="Michael Bröning"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/broening/">Michael Bröning</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/michael_broening-48x48.gif" alt="" title="Michael Bröning"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/broening/">Michael Bröning</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/a-revival-of-the-left-in-the-age-of-coronavirus/" rel="bookmark" title="A Revival of the Left in the Age of Coronavirus?">
+			A Revival of the Left in the Age of Coronavirus?		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-41" href="https://berlinpolicyjournal.com/category/beyond-the-seas/" title="Beyond the Seas" rel="category">Beyond the Seas</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>With the coronavirus pandemic, the window  seems to be open for a revival of center-left politics.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12156 post type-post status-publish format-standard has-post-thumbnail category-beyond-the-seas tag-capitalsm tag-covid-19 tag-economic-policy">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/a-future-history-of-capitalism/" rel="bookmark" title="A Future History of Capitalism">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="A Future History of Capitalism" title="A Future History of Capitalism" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/RTS3IXRC-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/RTS3IXRC-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-07-13T08:48:50+00:00" >
+			July 13, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/wolf_lotter-48x48.gif" alt="" title="Wolf Lotter"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/lotter/">Wolf Lotter</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/wolf_lotter-48x48.gif" alt="" title="Wolf Lotter"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/lotter/">Wolf Lotter</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/a-future-history-of-capitalism/" rel="bookmark" title="A Future History of Capitalism">
+			A Future History of Capitalism		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-41" href="https://berlinpolicyjournal.com/category/beyond-the-seas/" title="Beyond the Seas" rel="category">Beyond the Seas</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>Capitalism&#8217;s critics should pick the right targets: outdated structures, and an idea of human nature which hinders self-determination.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12151 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe tag-andrzej-duda tag-pis tag-poland tag-rafal-trzaskowski">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/the-fight-for-polands-place-in-europe/" rel="bookmark" title="The Fight for Poland’s Place in Europe">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="The Fight for Poland’s Place in Europe" title="The Fight for Poland’s Place in Europe" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/RTS3G3B7-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/RTS3G3B7-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-07-08T05:45:54+00:00" >
+			July 8, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="http://berlinpolicyjournal.com/IP/wp-content/uploads/2016/07/Annabelle-Chapman_avatar_1467804028-48x48.gif" alt="" title="Annabelle Chapman"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/chapman/">Annabelle Chapman</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="http://berlinpolicyjournal.com/IP/wp-content/uploads/2016/07/Annabelle-Chapman_avatar_1467804028-48x48.gif" alt="" title="Annabelle Chapman"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/chapman/">Annabelle Chapman</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/the-fight-for-polands-place-in-europe/" rel="bookmark" title="The Fight for Poland’s Place in Europe">
+			The Fight for Poland’s Place in Europe		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>The two candidates in the run-off vote for the Polish presidency offer very different visions of the role the country can play in the EU.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12149 post type-post status-publish format-standard has-post-thumbnail category-planet-moscow tag-imf tag-nuclear-weapons tag-russia">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/lower-thresholds-greater-ambiguity/" rel="bookmark" title="Lower Thresholds, Greater Ambiguity">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Lower Thresholds, Greater Ambiguity" title="Lower Thresholds, Greater Ambiguity" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/RTX6UZA5-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/RTX6UZA5-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-07-03T09:58:10+00:00" >
+			July 3, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/11/andras_rascz-48x48.gif" alt="" title="András Rácz"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/racz/">András Rácz</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/11/andras_rascz-48x48.gif" alt="" title="András Rácz"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/racz/">András Rácz</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/lower-thresholds-greater-ambiguity/" rel="bookmark" title="Lower Thresholds, Greater Ambiguity">
+			Lower Thresholds, Greater Ambiguity		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-39" href="https://berlinpolicyjournal.com/category/planet-moscow/" title="Planet Moscow" rel="category">Planet Moscow</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>Russia’s new nuclear doctrine serves multiple purposes, including getting the United States back to the negotiating table.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12143 post type-post status-publish format-standard has-post-thumbnail category-beyond-the-seas tag-covid-19 tag-global-governance tag-global-health tag-pandemics">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/how-we-learned-to-halt-pandemics/" rel="bookmark" title="How We Learned to Halt Pandemics">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="How We Learned to Halt Pandemics" title="How We Learned to Halt Pandemics" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/RTS3H5L3-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/RTS3H5L3-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-07-02T08:21:07+00:00" >
+			July 2, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/daniela_braun-48x48.gif" alt="" title="Daniela Braun"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/braund/">Daniela Braun</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/07/daniela_braun-48x48.gif" alt="" title="Daniela Braun"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/braund/">Daniela Braun</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/how-we-learned-to-halt-pandemics/" rel="bookmark" title="How We Learned to Halt Pandemics">
+			How We Learned to Halt Pandemics		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-41" href="https://berlinpolicyjournal.com/category/beyond-the-seas/" title="Beyond the Seas" rel="category">Beyond the Seas</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>The world in 2035: There’s an outbreak of a new type of virus, but after a few months it has been contained.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12130 post type-post status-publish format-standard has-post-thumbnail category-berlin-observer tag-international-law tag-international-security tag-law-and-justice tag-syria tag-war-crimes">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/op-ed-justice-matters-impunity-is-unacceptable/" rel="bookmark" title="Op-Ed: Justice Matters, Impunity Is Unacceptable">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Op-Ed: Justice Matters, Impunity Is Unacceptable" title="Op-Ed: Justice Matters, Impunity Is Unacceptable" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTSE96Q-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTSE96Q-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-06-29T10:04:31+00:00" >
+			June 29, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/niels_annen-48x48.gif" alt="" title="Niels Annen"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/annen/">Niels Annen</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/niels_annen-48x48.gif" alt="" title="Niels Annen"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/annen/">Niels Annen</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/op-ed-justice-matters-impunity-is-unacceptable/" rel="bookmark" title="Op-Ed: Justice Matters, Impunity Is Unacceptable">
+			Op-Ed: Justice Matters, Impunity Is Unacceptable		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-37" href="https://berlinpolicyjournal.com/category/berlin-observer/" title="Berlin Observer" rel="category">Berlin Observer</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>The Syrian regime has violated practically every article of international law. These crimes against humanity will not go unpunished, argues Minister of State Niels Annen.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12127 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/wanted-responsible-revolutionaries/" rel="bookmark" title="Wanted: Responsible Revolutionaries">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Wanted: Responsible Revolutionaries" title="Wanted: Responsible Revolutionaries" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTS3AHP2-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTS3AHP2-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-06-25T09:26:56+00:00" >
+			June 25, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/12/john_kampfner-48x48.gif" alt="" title="John Kampfner"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/kampfner/">John Kampfner</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/12/john_kampfner-48x48.gif" alt="" title="John Kampfner"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/kampfner/">John Kampfner</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/wanted-responsible-revolutionaries/" rel="bookmark" title="Wanted: Responsible Revolutionaries">
+			Wanted: Responsible Revolutionaries		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>Populists are having a bad COVID-19 crisis. The key challenge for centrist politics, however, is to combine competence with risk-taking radicalism.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12119 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe tag-afghanistan tag-eu-foreign-policy tag-syria">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/an-eu-global-moment-finding-a-path-to-peace-in-afghanistan-and-syria/" rel="bookmark" title="An EU Global Moment: Finding a Path to Peace in Afghanistan and Syria">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="An EU Global Moment: Finding a Path to Peace in Afghanistan and Syria" title="An EU Global Moment: Finding a Path to Peace in Afghanistan and Syria" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTS37P80-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTS37P80-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-06-23T12:46:17+00:00" >
+			June 23, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/nojumi-48x48.gif" alt="" title="Neamat Nojumi"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/nojumi/">Neamat Nojumi</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/nojumi-48x48.gif" alt="" title="Neamat Nojumi"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/nojumi/">Neamat Nojumi</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/an-eu-global-moment-finding-a-path-to-peace-in-afghanistan-and-syria/" rel="bookmark" title="An EU Global Moment: Finding a Path to Peace in Afghanistan and Syria">
+			An EU Global Moment: Finding a Path to Peace in Afghanistan and Syria		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>The absence of a viable post-war policy for Afghanistan and Syria under the Trump administration opens the window for the EU.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12114 post type-post status-publish format-standard has-post-thumbnail category-eye-on-europe tag-brune-le-maire tag-cloud-computing tag-gaia-x tag-peter-altmaier">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/bright-or-cloudy/" rel="bookmark" title="Bright or Cloudy?">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Bright or Cloudy?" title="Bright or Cloudy?" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTS3ANSZ-CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTS3ANSZ-CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-06-18T11:44:29+00:00" >
+			June 18, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/08/kaan_sahin-48x48.gif" alt="" title="Kaan Sahin"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/sahin/">Kaan Sahin</a></span>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/emilia_neuber-48x48.gif" alt="" title="Emilia Neuber"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/neuber/">Emilia Neuber</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/08/kaan_sahin-48x48.gif" alt="" title="Kaan Sahin"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/sahin/">Kaan Sahin</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/bright-or-cloudy/" rel="bookmark" title="Bright or Cloudy?">
+			Bright or Cloudy?		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>By launching Gaia-X, Germany and France are pushing for a “European cloud.”</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12106 post type-post status-publish format-standard has-post-thumbnail category-bullets-and-bytes tag-climate-emergency tag-nato">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/op-ed-toward-a-greener-nato/" rel="bookmark" title="Op-Ed: Toward a “Greener” NATO">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Op-Ed: Toward a “Greener” NATO" title="Op-Ed: Toward a “Greener” NATO" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTX6URI3_CUT-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTX6URI3_CUT-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-06-15T10:55:40+00:00" >
+			June 15, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/09/dominik_p_jankowski-48x48.gif" alt="" title="Dominik Jankowski"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/dominik-j/">Dominik Jankowski</a></span>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/Julian-Wieczorkiewicz-48x48.gif" alt="" title="Julian Wieczorkiewicz"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/wieczorkiewicz/">Julian Wieczorkiewicz</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2019/09/dominik_p_jankowski-48x48.gif" alt="" title="Dominik Jankowski"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/dominik-j/">Dominik Jankowski</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/op-ed-toward-a-greener-nato/" rel="bookmark" title="Op-Ed: Toward a “Greener” NATO">
+			Op-Ed: Toward a “Greener” NATO		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-42" href="https://berlinpolicyjournal.com/category/bullets-and-bytes/" title="Bullets and Bytes" rel="category">Bullets and Bytes</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>How NATO could make a contribution to fighting climate change.</p>
+	</div>
+	</div>			</div>
+            			<div class="up-up-child col-sm-6 post-12100 post type-post status-publish format-standard has-post-thumbnail category-carbon-critical category-eye-on-europe tag-carbon-critical tag-climate-emergency tag-hydropower tag-renewable-energy">
+				<div class="post-box-big" itemscope itemtype="http://schema.org/Article">
+			<div class="thumb-wrap zoom-zoom">
+			<a href="https://berlinpolicyjournal.com/carbon-critical-hydropower-the-old-renewable/" rel="bookmark" title="Carbon Critical: Hydropower, the Old Renewable">
+				<img height="193" width="360" itemprop="image" class="entry-thumb zoom-it three" alt="Carbon Critical: Hydropower, the Old Renewable" title="Carbon Critical: Hydropower, the Old Renewable" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTR2FNI4_bearbeitet-360x193.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/06/RTR2FNI4_bearbeitet-360x193@2x.jpg 2x"/>
+			</a>
+		</div>
+			<div class="meta-info no-bottom">
+		<time itemprop="dateCreated" class="entry-date" datetime="2020-06-10T08:34:34+00:00" >
+			June 10, 2020		</time><br>
+				<span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2018/05/Noah-Gordon_avatar_1525443663-48x48.gif" alt="" title="Noah J. Gordon"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/gordon/">Noah J. Gordon</a></span>
+				<!--span class="ava-auth">
+			<img width="14" height="14" itemprop="image" class="entry-thumb" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2018/05/Noah-Gordon_avatar_1525443663-48x48.gif" alt="" title="Noah J. Gordon"/>
+		</span>
+		<span itemprop="author" class="entry-author"><a href="https://berlinpolicyjournal.com/author/gordon/">Noah J. Gordon</a></span-->
+		<!--span class="coma">,</span--> 
+	</div>
+	<h3 itemprop="name" class="entry-title">
+		<a itemprop="url" href="https://berlinpolicyjournal.com/carbon-critical-hydropower-the-old-renewable/" rel="bookmark" title="Carbon Critical: Hydropower, the Old Renewable">
+			Carbon Critical: Hydropower, the Old Renewable		</a>
+	</h3>
+	<div class="meta-count">
+				<span class="i-category"><a class="mh-elcat-935" href="https://berlinpolicyjournal.com/category/carbon-critical/" title="Carbon Critical" rel="category">Carbon Critical</a> <a class="mh-elcat-38" href="https://berlinpolicyjournal.com/category/eye-on-europe/" title="Eye on Europe" rel="category">Eye on Europe</a> </span>
+	</div>
+		<div class="i-summary">
+		<p>The history of hydropower shows that renewables have always had flaws.</p>
+	</div>
+	</div>			</div>
+            </div>
+		<div class='pagination'><span class='page-indicator'> Page 1  of 23</span><a class='current'>1</a><a href='https://berlinpolicyjournal.com/page/2/' class='inactive' >2</a><a href='https://berlinpolicyjournal.com/page/3/' class='inactive' >3</a><a class='dot'>...</a><a class='boundary' href='https://berlinpolicyjournal.com/page/23/'>23</a><a class='next' href='https://berlinpolicyjournal.com/page/2/'>Next<i class='icon-right-open'></i></a></div>
+	
+</div>
+</div><!-- Sidebar -->
+				<div class="col-sm-4"><div class="sidebar">
+<div id="text-7" class="widget clearfix widget_text"><div class="widget-title"><div class="block-cap"><h3>Published by</h3></div></div>			<div class="textwidget"><p><a href="https://dgap.org/en"><img class="alignnone wp-image-11771 size-full" src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/03/DGAP_RGB_blau_Claim-Kopie.jpg" alt="" width="1274" height="741" /></a></p>
+</div>
+		</div><div id="text-2" class="widget clearfix widget_text"><div class="widget-title"><div class="block-cap"><h3>Out Now: May/June 2020 Issue</h3></div></div>			<div class="textwidget"><img src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2020/04/BPJ_03-2020_Cover_small.jpg">
+<br><br> +++ The coronavirus crisis has brought Europe and the rest of the world to a standstill. What are the effects of the pandemic on international affairs? The future of the EU depends on how it handles the crisis, argues <b> Daniela Schwarzer</b>. Much is riding on the German EU presidency. <b>David Goodhart</b> makes the case for a retreat from hyperglobalization, and <b>Richard Sennett</b> foresees big changes coming to our way of life; <b>Efi Koutsokosta</b> profiles Greek Prime Minister Kyriakos Mitsotakis; <b>Noah Gordon</b>, in his Carbon Critical column, points out that solar, like oil, has its overcapacity problems; and much more +++</b><br></div>
+		</div><div id="custom_html-2" class="widget_text widget clearfix widget_custom_html"><div class="widget-title"><div class="block-cap"><h3>Berlin Policy Journal Podcast</h3></div></div><div class="textwidget custom-html-widget"><iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/824427847&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-279760763" title="Berlin Policy Journal Podcast" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener noreferrer">Berlin Policy Journal Podcast</a> · <a href="https://soundcloud.com/user-279760763/episode-8-world-interrupted-the-coronaviruss-effect-on-international-affairs" title="Episode 8 - World, Interrupted: the Coronavirus’s Effect on International Affairs" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener noreferrer">Episode 8 - World, Interrupted: the Coronavirus’s Effect on International Affairs</a></div></div></div><div id="text-6" class="widget clearfix widget_text"><div class="widget-title"><div class="block-cap"><h3>European Encounters</h3></div></div>			<div class="textwidget"><p><a href="https://berlinpolicyjournal.com/european-encounters/"><img class="alignnone size-medium wp-image-5550" alt="" width="300" height="160" srcset="https://berlinpolicyjournal.com/IP/wp-content/uploads/2017/11/european_encounters_750x400px-300x160.jpg, https://berlinpolicyjournal.com/IP/wp-content/uploads/2017/11/european_encounters_750x400px-300x160@2x.jpg 2x" /></a></p>
+<p><strong>European Encounters (#EuropeCounts)</strong>, supported by Stiftung Mercator (2017-18), aims at contributing toward building a European public. Europeans from different ends and spheres of the continent exchange views on topics relevant to the whole EU. It’s time to make discussions truly European.</p>
+</div>
+		</div><div id="text-3" class="widget clearfix widget_text"><div class="widget-title"><div class="block-cap"><h3>Get the App</h3></div></div>			<div class="textwidget"><img  src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2017/11/BPJ-Montage_5-2017_NEW.jpg">
+<br><a href="https://play.google.com/store/apps/details?id=com.berlinpolicyjournal" target="_blank" rel="noopener noreferrer">
+<img  src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/07/google_play_button_120px.jpg" > </a>
+<a href="https://itunes.apple.com/us/app/berlin-policy-journal/id978651889?l=de&ls=1&mt=8" target="_blank" rel="noopener noreferrer">
+<img  src="https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/07/appstore_button_120px.jpg" ></a><br><br><b>BERLIN POLICY JOURNAL</b> is a bimonthly digital magazine on European affairs, edited in Germany’s capital and published by the <b>German Council on Foreign Relations</b> (DGAP). It is best read via our <b>app</b> – on <b>GooglePlay</b> and the <b>Apple AppStore</b> – on tablets and smart phones.</b></div>
+		</div><div id="search-2" class="widget clearfix widget_search"><form action="https://berlinpolicyjournal.com/" class="searchform" method="get">
+	<button class="search-button"><i class="icon-search"></i></button>
+	<input type="text" name="s" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" autocomplete="off" />
+</form></div></div></div></div>
+			</div>
+			</div>    
+<!--WPFC_FOOTER_START-->		</div>
+		<!-- END PAGE WRAPPER -->
+
+				
+		<!-- START FOOTER -->
+		<footer id="footer">
+
+			<!-- start footer sidebar -->
+			<div id="footer-sidebar">
+				<div class="container">
+					<div class="row">
+
+						<div class="col-sm-4">
+													</div>
+
+						<div class="col-sm-4">
+													</div>
+
+						<div class="col-sm-4">
+													</div>
+						
+					</div>
+				</div>
+			</div>
+			<!-- end footer sidebar -->
+
+			<!-- start f-copyright -->
+			<div class="f-copyright">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-8">
+							© Copyright 2019 German Council on Foreign Relations/Deutsche Gesellschaft für Auswärtige Politik e.V. (DGAP)						</div>
+						<div class="col-sm-4">
+							<nav>
+								<ul><li><a href="https://berlinpolicyjournal.com/app-2/">Current Issue</a></li><li><a href="https://berlinpolicyjournal.com/contact/">Contact</a></li><li><a href="https://berlinpolicyjournal.com/privacy-policy/">Data Protection &#038; Legal Information</a></li><li><a href="https://berlinpolicyjournal.com/imprint/">Imprint</a></li></ul>							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- end f-copyright -->
+
+		</footer>
+		<!-- END FOOTER -->
+
+	</div>
+	<!-- END OFF CANVAS BODY -->
+
+	</div>
+	<!-- END BODY BACKGROUND -->
+
+	<div id="scrolltop">
+		<a><i class="icon-up-open-big"></i></a>
+	</div>
+	
+	</div>
+
+        <script type="text/javascript">
+            (function(){
+                document.addEventListener('DOMContentLoaded', function(){
+                    let wpp_widgets = document.querySelectorAll('.popular-posts-sr');
+
+                    if ( wpp_widgets ) {
+                        for (let i = 0; i < wpp_widgets.length; i++) {
+                            let wpp_widget = wpp_widgets[i];
+                            WordPressPopularPosts.theme(wpp_widget);
+                        }
+                    }
+                });
+            })();
+        </script>
+                <script>
+            var WPPImageObserver = null;
+
+            function wpp_load_img(img) {
+                if ( ! 'imgSrc' in img.dataset || ! img.dataset.imgSrc )
+                    return;
+
+                img.src = img.dataset.imgSrc;
+
+                if ( 'imgSrcset' in img.dataset ) {
+                    img.srcset = img.dataset.imgSrcset;
+                    img.removeAttribute('data-img-srcset');
+                }
+
+                img.classList.remove('wpp-lazyload');
+                img.removeAttribute('data-img-src');
+                img.classList.add('wpp-lazyloaded');
+            }
+
+            function wpp_observe_imgs(){
+                let wpp_images = document.querySelectorAll('img.wpp-lazyload'),
+                    wpp_widgets = document.querySelectorAll('.popular-posts-sr');
+
+                if ( wpp_images.length || wpp_widgets.length ) {
+                    if ( 'IntersectionObserver' in window ) {
+                        WPPImageObserver = new IntersectionObserver(function(entries, observer) {
+                            entries.forEach(function(entry) {
+                                if (entry.isIntersecting) {
+                                    let img = entry.target;
+                                    wpp_load_img(img);
+                                    WPPImageObserver.unobserve(img);
+                                }
+                            });
+                        });
+
+                        if ( wpp_images.length ) {
+                            wpp_images.forEach(function(image) {
+                                WPPImageObserver.observe(image);
+                            });
+                        }
+
+                        if ( wpp_widgets.length ) {
+                            for (var i = 0; i < wpp_widgets.length; i++) {
+                                let wpp_widget_images = wpp_widgets[i].querySelectorAll('img.wpp-lazyload');
+
+                                if ( ! wpp_widget_images.length && wpp_widgets[i].shadowRoot ) {
+                                    wpp_widget_images = wpp_widgets[i].shadowRoot.querySelectorAll('img.wpp-lazyload');
+                                }
+
+                                if ( wpp_widget_images.length ) {
+                                    wpp_widget_images.forEach(function(image) {
+                                        WPPImageObserver.observe(image);
+                                    });
+                                }
+                            }
+                        }
+                    } /** Fallback for older browsers */
+                    else {
+                        if ( wpp_images.length ) {
+                            for (var i = 0; i < wpp_images.length; i++) {
+                                wpp_load_img(wpp_images[i]);
+                                wpp_images[i].classList.remove('wpp-lazyloaded');
+                            }
+                        }
+
+                        if ( wpp_widgets.length ) {
+                            for (var j = 0; j < wpp_widgets.length; j++) {
+                                let wpp_widget = wpp_widgets[j],
+                                    wpp_widget_images = wpp_widget.querySelectorAll('img.wpp-lazyload');
+
+                                if ( ! wpp_widget_images.length && wpp_widget.shadowRoot ) {
+                                    wpp_widget_images = wpp_widget.shadowRoot.querySelectorAll('img.wpp-lazyload');
+                                }
+
+                                if ( wpp_widget_images.length ) {
+                                    for (var k = 0; k < wpp_widget_images.length; k++) {
+                                        wpp_load_img(wpp_widget_images[k]);
+                                        wpp_widget_images[k].classList.remove('wpp-lazyloaded');
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+                wpp_observe_imgs();
+
+                // When an ajaxified WPP widget loads,
+                // Lazy load its images
+                document.addEventListener('wpp-onload', function(){
+                    wpp_observe_imgs();
+                });
+            });
+        </script>
+        <script>
+    jQuery(document).ready(function () {
+		jQuery.post('https://berlinpolicyjournal.com?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.innerHTML = response;
+			jQuery("head").append(s);
+		});
+    });
+</script><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/berlinpolicyjournal.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4' defer='defer'></script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-content/themes/Curated/static/js/main.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MahaAjax = {"ajaxurl":"https:\/\/berlinpolicyjournal.com\/IP\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-content/themes/Curated/static/js/basix.js?ver=1.0.0' defer='defer'></script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-content/themes/Curated/static/js/add_to_cart.js?ver=1.0.0' defer='defer'></script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-includes/js/comment-reply.min.js?ver=5.2.18' defer='defer'></script>
+<script type='text/javascript' src='https://berlinpolicyjournal.com/IP/wp-includes/js/wp-embed.min.js?ver=5.2.18' defer='defer'></script>
+<style>@media (min-width: 769px) {#top-bar-sticky {display: inherit;}}    		    /*Font Family Heading*/
+		    h1, h2, h3, h4, h5, h6, .mobile-bar ul li, .main-ul-nav ul li a, .i-slide .full .detail h2, .meta-info, .meta-info .entry-author a,.s-number, .meta-share, .meta-tags, .next-prev, .np-caption, .meta-author .author-name, .meta-review .review-visual .visual-value,.nf404-title, .social_subscribe .social-network .social-network-count, .wpcf7-submit, .i-button, .i-divider span, .i-message-box .i-mb-title,.pagination, .content-pagination, .comment-list .reply, .comment-list .comment-author, .comment-list .comment-meta, #respond #submit,.widget_popular_post .nav-popular-post li a,.lwa-form h2, .thumb-runtext a, .woo-maha #reviews #comments ol.commentlist li .comment-text .meta,.woo-maha .myaccount_user > span strong, .woo-maha .shop_table thead tr, .woocommerce .widget_price_filter .price_slider_amount .button,.maha-heading-font, .bbp-login-form .bbp-submit-wrapper, .bbp-reply-content .bbp_author_name > .bbp-author-name, .bbp-section-caption, li.bbp-topic-title > .bbp-topic-permalink, .bbp-reply-content .bbp_author_name > a:first-child, li.bbp-forum-info .bbp-forum-title{
+		    					font-family:'Open Sans Condensed', Arial, sans-serif;
+								   		font-weight:700;
+	   	}
+   	   		    /*Font Family Content*/
+	    #buddypress div.generic-button .friendship-button,#buddypress .bbp-the-content-wrapper .wp-editor-container .quicktags-toolbar input, #buddypress div.generic-button .friendship-button a,
+	    #buddypress .maha_bp_group_button div.generic-button a, .woo-maha ul.order_details.bacs_details h3, .widget.widget_icl_lang_sel_widget #lang_sel, #lang_sel_footer, body{;
+	    						font-family:'Open Sans', Arial, sans-serif;
+								    	font-weight:;
+	    	font-size:16px;
+	    }
+	    #buddypress div#item-header #item-buttons div.generic-button#post-mention a,#buddypress div#item-header #item-buttons div.generic-button#send-private-message a,#buddypress .maha-bp-content-font {
+								font-family:'Open Sans', Arial, sans-serif !important;
+								    }
+        		    /*Primary Color / Accent 1*/
+	    /*box shadow bottom -3px*/
+	    .ul-nav ul li.current-menu-ancestor a, .ul-nav ul li.current-menu-parent a, .ul-nav ul li.current_page_parent a, .ul-nav ul li.current-menu-item a, .ul-nav ul li:hover a{
+	    	-webkit-box-shadow: 0 -3px 0 #000000 inset; -moz-box-shadow: 0 -3px 0 #000000 inset; box-shadow: 0 -3px 0 #000000 inset;
+	    }
+	    /*box shadow bottom -4px*/
+	    .main-ul-nav ul li.current_page_ancestor a, .main-ul-nav ul li.current_page_parent a, .main-ul-nav ul li.current-menu-parent a, .main-ul-nav ul li.current-menu-ancestor a, .main-ul-nav ul li.current-menu-item a, .main-ul-nav ul li:hover a{
+	    	-webkit-box-shadow: 0 -4px 0 #000000 inset; -moz-box-shadow: 0 -4px 0 #000000 inset; box-shadow: 0 -4px 0 #000000 inset;
+	    }
+	    /*color*/
+	    .mobile-bar #close-mobile-bar:hover, .ul-nav ul li ul li a:hover, .ul-nav ul li ul li.current-menu-item a{
+	    	color: #000000;
+	    }
+        	    /*Primary Color / Accent 2*/
+	    /*background color*/
+	    .pagination a.current, .bbp-pagination .pagination span.current, .content-pagination > span, .woocommerce-pagination ul li .page-numbers.current, .woocommerce .shop_table .actions .button, .woocommerce .shipping-calculator-form .button, #place_order,.maha-woo .button, .woocommerce #review_form_wrapper .form-submit #submit,.woo-button, .woo-maha ul.products li.product a.button:hover, .woo-maha div.product form.cart .button,.woo-maha .track_order input.button, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,#buddypress div.pagination .pagination-links span.current, .cart-count .shop-cart, .woocommerce .widget_price_filter .price_slider_amount .button{
+			background-color: #000000;
+		}
+	    /*color*/
+	    .pagination a.inactive:hover,.pagination a.boundary:hover, .woocommerce-pagination ul li a.page-numbers:hover, .shop_table.order_details .order_item .product-name a, .order-number a, .order-actions a,.woo-maha label .required, .woo-maha .star-rating, .woo-maha ul.products li.product .price, .woo-maha p.stars a.star-1:after, .woo-maha p.stars a.star-2:after, .woo-maha p.stars a.star-3:after, .woo-maha p.stars a.star-4:after, .woo-maha p.stars a.star-5:after,.woo-maha div.product div.summary .product_meta .posted_in a, .woocommerce .product_list_widget li .star-rating,#buddypress div.pagination .pagination-links a:hover,
+	    .woo-maha .star-rating span:before, .woocommerce .product_list_widget .star-rating span:before, .bbp-pagination .pagination a:hover, .bbp-pagination .pagination a.prev:hover, .bbp-pagination .pagination a.next:hover {
+			color: #000000;
+		}
+		/*woocommerce cart count*/
+		.cart-count .count-arrow{border-right: 5px solid #000000;}
+
+		.rtl .cart-count .count-arrow { border-left: 5px solid #000000; }
+		        	        	/*Background Body*/
+        #body-maha {
+        	background-color: transparent; background-image:url("https://berlinpolicyjournal.com/IP/wp-content/uploads/2015/02/lines_45.gif"); background-repeat: repeat;
+        	background-position: center center; background-size: inherit; background-attachment: fixed; 
+    	}        
+        #body-background { margin: 0 auto;}
+        @media (min-width: 1200px){#body-background, #main-nav-bar.on-stuck { width: 1200px; }}
+        @media (max-width: 1199px) and (min-width: 992px) {#body-background, #main-nav-bar.on-stuck { width: 997px; }}
+        @media (max-width: 991px) and (min-width: 768px) {#body-background, #main-nav-bar.on-stuck { width: 773px; }}
+   	            			.main-ul-nav ul li.mh-navcat-58:hover > a,.main-ul-nav ul li.mh-navcat-58.current-menu-item > a,.main-ul-nav ul li.mh-navcat-58.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #606060 inset; -moz-box-shadow: 0 -4px 0 #606060 inset; box-shadow: 0 -4px 0 #606060 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-58{background:#606060;}
+    		.main-ul-nav ul li.mh-navcat-37:hover > a,.main-ul-nav ul li.mh-navcat-37.current-menu-item > a,.main-ul-nav ul li.mh-navcat-37.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #961c20 inset; -moz-box-shadow: 0 -4px 0 #961c20 inset; box-shadow: 0 -4px 0 #961c20 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-37{background:#961c20;}
+    		.main-ul-nav ul li.mh-navcat-44:hover > a,.main-ul-nav ul li.mh-navcat-44.current-menu-item > a,.main-ul-nav ul li.mh-navcat-44.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #000000 inset; -moz-box-shadow: 0 -4px 0 #000000 inset; box-shadow: 0 -4px 0 #000000 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-44{background:#000000;}
+    		.main-ul-nav ul li.mh-navcat-41:hover > a,.main-ul-nav ul li.mh-navcat-41.current-menu-item > a,.main-ul-nav ul li.mh-navcat-41.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #f49200 inset; -moz-box-shadow: 0 -4px 0 #f49200 inset; box-shadow: 0 -4px 0 #f49200 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-41{background:#f49200;}
+    		.main-ul-nav ul li.mh-navcat-42:hover > a,.main-ul-nav ul li.mh-navcat-42.current-menu-item > a,.main-ul-nav ul li.mh-navcat-42.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #828282 inset; -moz-box-shadow: 0 -4px 0 #828282 inset; box-shadow: 0 -4px 0 #828282 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-42{background:#828282;}
+    		.main-ul-nav ul li.mh-navcat-935:hover > a,.main-ul-nav ul li.mh-navcat-935.current-menu-item > a,.main-ul-nav ul li.mh-navcat-935.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #000000 inset; -moz-box-shadow: 0 -4px 0 #000000 inset; box-shadow: 0 -4px 0 #000000 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-935{background:#000000;}
+    		.main-ul-nav ul li.mh-navcat-566:hover > a,.main-ul-nav ul li.mh-navcat-566.current-menu-item > a,.main-ul-nav ul li.mh-navcat-566.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #0166bf inset; -moz-box-shadow: 0 -4px 0 #0166bf inset; box-shadow: 0 -4px 0 #0166bf inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-566{background:#0166bf;}
+    		.main-ul-nav ul li.mh-navcat-38:hover > a,.main-ul-nav ul li.mh-navcat-38.current-menu-item > a,.main-ul-nav ul li.mh-navcat-38.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #0a59c9 inset; -moz-box-shadow: 0 -4px 0 #0a59c9 inset; box-shadow: 0 -4px 0 #0a59c9 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-38{background:#0a59c9;}
+    		.main-ul-nav ul li.mh-navcat-43:hover > a,.main-ul-nav ul li.mh-navcat-43.current-menu-item > a,.main-ul-nav ul li.mh-navcat-43.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #419100 inset; -moz-box-shadow: 0 -4px 0 #419100 inset; box-shadow: 0 -4px 0 #419100 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-43{background:#419100;}
+    		.main-ul-nav ul li.mh-navcat-257:hover > a,.main-ul-nav ul li.mh-navcat-257.current-menu-item > a,.main-ul-nav ul li.mh-navcat-257.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #dd9933 inset; -moz-box-shadow: 0 -4px 0 #dd9933 inset; box-shadow: 0 -4px 0 #dd9933 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-257{background:#dd9933;}
+    		.main-ul-nav ul li.mh-navcat-442:hover > a,.main-ul-nav ul li.mh-navcat-442.current-menu-item > a,.main-ul-nav ul li.mh-navcat-442.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #3fcc93 inset; -moz-box-shadow: 0 -4px 0 #3fcc93 inset; box-shadow: 0 -4px 0 #3fcc93 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-442{background:#3fcc93;}
+    		.main-ul-nav ul li.mh-navcat-606:hover > a,.main-ul-nav ul li.mh-navcat-606.current-menu-item > a,.main-ul-nav ul li.mh-navcat-606.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #00a346 inset; -moz-box-shadow: 0 -4px 0 #00a346 inset; box-shadow: 0 -4px 0 #00a346 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-606{background:#00a346;}
+    		.main-ul-nav ul li.mh-navcat-774:hover > a,.main-ul-nav ul li.mh-navcat-774.current-menu-item > a,.main-ul-nav ul li.mh-navcat-774.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #1670bf inset; -moz-box-shadow: 0 -4px 0 #1670bf inset; box-shadow: 0 -4px 0 #1670bf inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-774{background:#1670bf;}
+    		.main-ul-nav ul li.mh-navcat-989:hover > a,.main-ul-nav ul li.mh-navcat-989.current-menu-item > a,.main-ul-nav ul li.mh-navcat-989.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #1e73be inset; -moz-box-shadow: 0 -4px 0 #1e73be inset; box-shadow: 0 -4px 0 #1e73be inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-989{background:#1e73be;}
+    		.main-ul-nav ul li.mh-navcat-167:hover > a,.main-ul-nav ul li.mh-navcat-167.current-menu-item > a,.main-ul-nav ul li.mh-navcat-167.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #8224e3 inset; -moz-box-shadow: 0 -4px 0 #8224e3 inset; box-shadow: 0 -4px 0 #8224e3 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-167{background:#8224e3;}
+    		.main-ul-nav ul li.mh-navcat-351:hover > a,.main-ul-nav ul li.mh-navcat-351.current-menu-item > a,.main-ul-nav ul li.mh-navcat-351.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #209ecc inset; -moz-box-shadow: 0 -4px 0 #209ecc inset; box-shadow: 0 -4px 0 #209ecc inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-351{background:#209ecc;}
+    		.main-ul-nav ul li.mh-navcat-525:hover > a,.main-ul-nav ul li.mh-navcat-525.current-menu-item > a,.main-ul-nav ul li.mh-navcat-525.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #2d7bbf inset; -moz-box-shadow: 0 -4px 0 #2d7bbf inset; box-shadow: 0 -4px 0 #2d7bbf inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-525{background:#2d7bbf;}
+    		.main-ul-nav ul li.mh-navcat-678:hover > a,.main-ul-nav ul li.mh-navcat-678.current-menu-item > a,.main-ul-nav ul li.mh-navcat-678.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #0f0189 inset; -moz-box-shadow: 0 -4px 0 #0f0189 inset; box-shadow: 0 -4px 0 #0f0189 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-678{background:#0f0189;}
+    		.main-ul-nav ul li.mh-navcat-859:hover > a,.main-ul-nav ul li.mh-navcat-859.current-menu-item > a,.main-ul-nav ul li.mh-navcat-859.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #ddbcbc inset; -moz-box-shadow: 0 -4px 0 #ddbcbc inset; box-shadow: 0 -4px 0 #ddbcbc inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-859{background:#ddbcbc;}
+    		.main-ul-nav ul li.mh-navcat-40:hover > a,.main-ul-nav ul li.mh-navcat-40.current-menu-item > a,.main-ul-nav ul li.mh-navcat-40.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #1ca0b5 inset; -moz-box-shadow: 0 -4px 0 #1ca0b5 inset; box-shadow: 0 -4px 0 #1ca0b5 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-40{background:#1ca0b5;}
+    		.main-ul-nav ul li.mh-navcat-285:hover > a,.main-ul-nav ul li.mh-navcat-285.current-menu-item > a,.main-ul-nav ul li.mh-navcat-285.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #b3405d inset; -moz-box-shadow: 0 -4px 0 #b3405d inset; box-shadow: 0 -4px 0 #b3405d inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-285{background:#b3405d;}
+    		.main-ul-nav ul li.mh-navcat-474:hover > a,.main-ul-nav ul li.mh-navcat-474.current-menu-item > a,.main-ul-nav ul li.mh-navcat-474.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #1e73be inset; -moz-box-shadow: 0 -4px 0 #1e73be inset; box-shadow: 0 -4px 0 #1e73be inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-474{background:#1e73be;}
+    		.main-ul-nav ul li.mh-navcat-613:hover > a,.main-ul-nav ul li.mh-navcat-613.current-menu-item > a,.main-ul-nav ul li.mh-navcat-613.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #4e8abf inset; -moz-box-shadow: 0 -4px 0 #4e8abf inset; box-shadow: 0 -4px 0 #4e8abf inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-613{background:#4e8abf;}
+    		.main-ul-nav ul li.mh-navcat-810:hover > a,.main-ul-nav ul li.mh-navcat-810.current-menu-item > a,.main-ul-nav ul li.mh-navcat-810.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #7499bf inset; -moz-box-shadow: 0 -4px 0 #7499bf inset; box-shadow: 0 -4px 0 #7499bf inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-810{background:#7499bf;}
+    		.main-ul-nav ul li.mh-navcat-104:hover > a,.main-ul-nav ul li.mh-navcat-104.current-menu-item > a,.main-ul-nav ul li.mh-navcat-104.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #dd9933 inset; -moz-box-shadow: 0 -4px 0 #dd9933 inset; box-shadow: 0 -4px 0 #dd9933 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-104{background:#dd9933;}
+    		.main-ul-nav ul li.mh-navcat-320:hover > a,.main-ul-nav ul li.mh-navcat-320.current-menu-item > a,.main-ul-nav ul li.mh-navcat-320.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #1e73be inset; -moz-box-shadow: 0 -4px 0 #1e73be inset; box-shadow: 0 -4px 0 #1e73be inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-320{background:#1e73be;}
+    		.main-ul-nav ul li.mh-navcat-504:hover > a,.main-ul-nav ul li.mh-navcat-504.current-menu-item > a,.main-ul-nav ul li.mh-navcat-504.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #dd1313 inset; -moz-box-shadow: 0 -4px 0 #dd1313 inset; box-shadow: 0 -4px 0 #dd1313 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-504{background:#dd1313;}
+    		.main-ul-nav ul li.mh-navcat-645:hover > a,.main-ul-nav ul li.mh-navcat-645.current-menu-item > a,.main-ul-nav ul li.mh-navcat-645.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #dd9933 inset; -moz-box-shadow: 0 -4px 0 #dd9933 inset; box-shadow: 0 -4px 0 #dd9933 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-645{background:#dd9933;}
+    		.main-ul-nav ul li.mh-navcat-831:hover > a,.main-ul-nav ul li.mh-navcat-831.current-menu-item > a,.main-ul-nav ul li.mh-navcat-831.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #dd9933 inset; -moz-box-shadow: 0 -4px 0 #dd9933 inset; box-shadow: 0 -4px 0 #dd9933 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-831{background:#dd9933;}
+    		.main-ul-nav ul li.mh-navcat-232:hover > a,.main-ul-nav ul li.mh-navcat-232.current-menu-item > a,.main-ul-nav ul li.mh-navcat-232.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #81d742 inset; -moz-box-shadow: 0 -4px 0 #81d742 inset; box-shadow: 0 -4px 0 #81d742 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-232{background:#81d742;}
+    		.main-ul-nav ul li.mh-navcat-410:hover > a,.main-ul-nav ul li.mh-navcat-410.current-menu-item > a,.main-ul-nav ul li.mh-navcat-410.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #b52626 inset; -moz-box-shadow: 0 -4px 0 #b52626 inset; box-shadow: 0 -4px 0 #b52626 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-410{background:#b52626;}
+    		.main-ul-nav ul li.mh-navcat-568:hover > a,.main-ul-nav ul li.mh-navcat-568.current-menu-item > a,.main-ul-nav ul li.mh-navcat-568.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #dd9933 inset; -moz-box-shadow: 0 -4px 0 #dd9933 inset; box-shadow: 0 -4px 0 #dd9933 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-568{background:#dd9933;}
+    		.main-ul-nav ul li.mh-navcat-750:hover > a,.main-ul-nav ul li.mh-navcat-750.current-menu-item > a,.main-ul-nav ul li.mh-navcat-750.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #e85602 inset; -moz-box-shadow: 0 -4px 0 #e85602 inset; box-shadow: 0 -4px 0 #e85602 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-750{background:#e85602;}
+    		.main-ul-nav ul li.mh-navcat-956:hover > a,.main-ul-nav ul li.mh-navcat-956.current-menu-item > a,.main-ul-nav ul li.mh-navcat-956.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #dd0000 inset; -moz-box-shadow: 0 -4px 0 #dd0000 inset; box-shadow: 0 -4px 0 #dd0000 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-956{background:#dd0000;}
+    		.main-ul-nav ul li.mh-navcat-816:hover > a,.main-ul-nav ul li.mh-navcat-816.current-menu-item > a,.main-ul-nav ul li.mh-navcat-816.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #932b11 inset; -moz-box-shadow: 0 -4px 0 #932b11 inset; box-shadow: 0 -4px 0 #932b11 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-816{background:#932b11;}
+    		.main-ul-nav ul li.mh-navcat-934:hover > a,.main-ul-nav ul li.mh-navcat-934.current-menu-item > a,.main-ul-nav ul li.mh-navcat-934.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #dd1a1a inset; -moz-box-shadow: 0 -4px 0 #dd1a1a inset; box-shadow: 0 -4px 0 #dd1a1a inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-934{background:#dd1a1a;}
+    		.main-ul-nav ul li.mh-navcat-39:hover > a,.main-ul-nav ul li.mh-navcat-39.current-menu-item > a,.main-ul-nav ul li.mh-navcat-39.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #184737 inset; -moz-box-shadow: 0 -4px 0 #184737 inset; box-shadow: 0 -4px 0 #184737 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-39{background:#184737;}
+    		.main-ul-nav ul li.mh-navcat-207:hover > a,.main-ul-nav ul li.mh-navcat-207.current-menu-item > a,.main-ul-nav ul li.mh-navcat-207.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #222 inset; -moz-box-shadow: 0 -4px 0 #222 inset; box-shadow: 0 -4px 0 #222 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-207{background:#222;}
+    		.main-ul-nav ul li.mh-navcat-377:hover > a,.main-ul-nav ul li.mh-navcat-377.current-menu-item > a,.main-ul-nav ul li.mh-navcat-377.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #ddb677 inset; -moz-box-shadow: 0 -4px 0 #ddb677 inset; box-shadow: 0 -4px 0 #ddb677 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-377{background:#ddb677;}
+    		.main-ul-nav ul li.mh-navcat-544:hover > a,.main-ul-nav ul li.mh-navcat-544.current-menu-item > a,.main-ul-nav ul li.mh-navcat-544.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #f7e222 inset; -moz-box-shadow: 0 -4px 0 #f7e222 inset; box-shadow: 0 -4px 0 #f7e222 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-544{background:#f7e222;}
+    		.main-ul-nav ul li.mh-navcat-706:hover > a,.main-ul-nav ul li.mh-navcat-706.current-menu-item > a,.main-ul-nav ul li.mh-navcat-706.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #ddb982 inset; -moz-box-shadow: 0 -4px 0 #ddb982 inset; box-shadow: 0 -4px 0 #ddb982 inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-706{background:#ddb982;}
+    		.main-ul-nav ul li.mh-navcat-920:hover > a,.main-ul-nav ul li.mh-navcat-920.current-menu-item > a,.main-ul-nav ul li.mh-navcat-920.current-post-parent > a{
+		-webkit-box-shadow: 0 -4px 0 #37960c inset; -moz-box-shadow: 0 -4px 0 #37960c inset; box-shadow: 0 -4px 0 #37960c inset; }
+         /*Custom Category*/
+        .i-category a.mh-elcat-920{background:#37960c;}
+                                    	    /*Content Options*/
+	    /*URL Content Default Color*/
+	    a{color: #2b2624}
+	    /*Content Color*/
+	    body, .widget_calendar tbody td,input[type="text"], input[type="password"], input[type="email"], textarea, select, #con-search, #buddypress #profile-edit-form ul.button-nav a, #buddypress form#whats-new-form textarea, #buddypress .standard-form select,
+	    #buddypress div.item-list-tabs#subnav ul li.feed a, #buddypress ul.item-list li div.item-title span, #buddypress ul#groups-list li .item-desc p, .bp-site-wide-message div#message p a, #sitewide-notice a, #buddypress table tr td.thread-info p.thread-excerpt,
+	    #buddypress div.activity-comments form textarea
+	    {color: #2b2624}
+
+
+	    #bbpress-forums .bbp-body li.bbp-forum-topic-reply, li.bbp-topic-post, .bbp-pagination-count, #bbpress-forums div.bbp-reply-content .maha_bbp_author_name
+	    {color: #2b2624}
+
+	    .woo-maha .form-row .chosen-container-single .chosen-single, .woo-maha .quantity.buttons_added > input, .woo-maha .myaccount_user, .woo-maha .myaccount_user a, .woo-maha .myaccount_user span
+	    {color: #2b2624}
+
+
+
+	    #con-search .search-field, ::-webkit-input-placeholder
+	    {color: #2b2624 !important}
+        	    /*Heading*/
+	    h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+	    .block-cap h3, .meta-info .entry-author, .meta-info .entry-author a, .next-prev .prev i, .next-prev .next i, .next-prev .np-title,
+	    .meta-author .author-name a, .nf404-title, strong, .dropcap.normal, .i-divider span, .i-message-box .i-mb-title,
+	    .i-toggle.active, .i-toggle .toggle-nav, .i-tabs .tab-nav, .i-tabs .tab-nav li a,
+	    .pagination a, .content-pagination > a > span, .widget_recents .recent-item a, .widget_popular_post .nav-popular-post li a, .thumb-runtext a,
+	    .woocommerce .shop_table thead tr th, .woocommerce .cart_totals th, .bbp-author-name a, .bbp-section-caption, #buddypress div.item-list-tabs ul li a, #buddypress div.item-list-tabs ul li span,
+	    #buddypress .activity-list .new_blog_post .activity-header p a:first-child, #buddypress .activity-list .activity_update .activity-header p a:first-child,
+	    #buddypress .activity-header p a:first-child, #buddypress .acomment-content p a:first-child, #buddypress ul#groups-list li .item-title a, #buddypress .activity-list li.load-newest a,
+	    .bp-site-wide-message div#message p strong, #sitewide-notice strong, #buddypress div#message-thread #send-reply div.message-box .avatar-box strong, #buddypress div#message-thread strong a, .widget.buddypress div.item-options,
+	    .widget.buddypress div.item-options a, .widget.buddypress .bp-login-widget-user-links > div.bp-login-widget-user-link a, .pagination a.prev, .pagination a.next
+	    {color: #000000}
+
+	    li.bbp-forum-info .bbp-forum-title, #bbpress-forums li.bbp-header ul.forum-titles li, li.bbp-topic-title > .bbp-topic-permalink, #bbpress-forums #bbp-single-user-details #bbp-user-navigation a
+	    {color: #000000}
+
+	    /*Background*/
+	    .maha-progress-bar .bar, .dropcap.square, .dropcap.circle
+	    {background-color: #000000}
+                
+
+
+        
+
+
+                                                            .meta-author .author-thumb img, .meta-info .ava-auth img, .comment-list li.comment > div img.avatar{-webkit-border-radius: 80px; -moz-border-radius: 80px; -ms-border-radius: 80px; -o-border-radius: 80px; border-radius: 80px; }</style>
+		<!-- Cookie Notice plugin v2.2.3 by Hu-manity.co https://hu-manity.co/ -->
+		<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(50,50,58,0.79);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button" aria-label="Ok" style="background-color: #00a99d">Ok</a><a href="#" id="cn-refuse-cookie" data-cookie-set="refuse" class="cn-set-cookie cn-button" aria-label="No" style="background-color: #00a99d">No</a><a href="https://berlinpolicyjournal.com/privacy-policy/" target="_self" id="cn-more-info" class="cn-more-info cn-button" aria-label="Privacy policy" style="background-color: #00a99d">Privacy policy</a></span><span id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" title="No"></span></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin -->
+        
+</body>
+</html><!-- html is corrupted -->
